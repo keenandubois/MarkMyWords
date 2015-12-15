@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="text">Text Notes</string>
+	<string name="audio">Audio Notes</string>
+	<string name="capture">Capture</string>
+	<string name="delete">Delete</string>
+	<string name="busted">Busted</string>
+	<string name="atlarge">Still At Large</string>
+	<string name="check">Are you sure?</string>
+	<string name="note_name">Note Name (Required)</string>
+	<string name="recording_name">Recording Name (Required)</string>
+	<string name="save">Save</string>
+	<string name="new_note">New Note</string>
+	<string name="new_recording">New Recording</string>
+	<string name="photo">Add Photo</string>
+	<string name="map_button">Show On Map</string>
+	<string name="marked_at">Created </string>
+	<string name="close">Close</string>
+	<string name="tags">Tags</string>
+	<string name="record">Record</string>
+	<string name="pause">Pause</string>
+	<string name="resume">Resume</string>
+	<string name="done_rec">Recorded</string>
+	<string name="play">Play</string>
+	<string name="stop">Stop</string>
+</resources>
